@@ -13,6 +13,6 @@ Here, I showcase the certifications I’ve earned throughout my journey in **Sof
 
 ### Software Engineering
 1. **Learn the Command Line Course** (Codecademy)  
-   - [View Certificate](https://github.com/JeremyInCode/Certifications/edit/main/README.md#:~:text=assets-,Command,-Line%20Certification.png)  
+   - [View Certificate](https://github.com/JeremyInCode/Certifications/assets/Command_Line_Certification.png)  
    - *Issued: January 13, 2025*  
    - **Skills Gained**: Command-line navigation, scripting basics, bash, powershell.
